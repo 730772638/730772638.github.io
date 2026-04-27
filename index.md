@@ -2,12 +2,8 @@
 # Do not edit the text between these lines!
 layout: default
 ---
+# Neil Tapita
 
-# This is a big header
+Welcome to my COMP110 Project Page!
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-
-## This is a small header
-
-This is basic paragraph text.
+[View my Data Analysis Project](/comp110/)
